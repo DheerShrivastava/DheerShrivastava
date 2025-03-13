@@ -1,5 +1,6 @@
-# 💫 About Me:
-This is Dheer working on project <br>Founder @HiveStudio<br>
+# Dheer Shrivastava ⭐:
+An Engineering student with passion in creating something for development of other. Building projects to have a impact in the world. Passionate about coding and have a wide range of skils ranging from development to analytics and even ML. Learning everyday to impact the life. 
+<br>🧑‍💼Founder @HiveStudio<br>
 
 
 ## 🌐 Socials:
